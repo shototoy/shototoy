@@ -1,10 +1,14 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0fdcc2fa-ca47-4a94-818c-82aa62ad945b" width="30" alt="PSHS"/> <img src="https://img.shields.io/badge/Philippine_Science_High_School-0066CC?style=for-the-badge&labelColor=0066CC" alt="PSHS"/>
-  
-<img src="https://github.com/user-attachments/assets/63fef7c9-e0ae-4d88-83e5-a591cfae8816" width="30" alt="Mapua"/> <img src="https://img.shields.io/badge/Mapúa_University-DC143C?style=for-the-badge&labelColor=DC143C" alt="Mapua"/>
-<img src="https://github.com/user-attachments/assets/50da4e50-2b8e-4f46-98c4-0bd54018765f" width="30" alt="SKSU"/> <img src="https://img.shields.io/badge/Sultan_Kudarat_State_University-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=000000" alt="SKSU"/>
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/88147f81-49d2-410a-bc05-5ed5dfd8d8ab" />
+<img src="https://github.com/user-attachments/assets/faf7fe92-b49b-4f02-924e-5158858ae6ce" width="30" alt="PSHS"/> <img src="https://img.shields.io/badge/Philippine_Science_High_School-0066CC?style=for-the-badge&labelColor=0066CC" alt="PSHS"/>
+  
+<img src="https://github.com/user-attachments/assets/9f867a46-3dba-42aa-9984-86e596b20a1f" width="30" alt="Mapua"/> <img src="https://img.shields.io/badge/Mapúa_University-DC143C?style=for-the-badge&labelColor=DC143C" alt="Mapua"/>
+
+<img src="https://github.com/user-attachments/assets/7ab04c41-3e3a-4714-b6b4-b48e965ffbda" width="30" alt="SKSU"/> <img src="https://img.shields.io/badge/Sultan_Kudarat_State_University-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=000000" alt="SKSU"/>
+
+<img src="https://github.com/user-attachments/assets/7f703eaa-a832-4c62-b823-895296ce911b" width="30" alt="Skateboarding"/> <img src="https://img.shields.io/badge/Skateboarding-228B22?style=for-the-badge&labelColor=228B22" alt="Skateboarding"/>
+
+
 </div>
 
 <table>
