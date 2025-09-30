@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/9f867a46-3dba-42aa-9984-86e596b20a1f" width="40" alt="PSHS"/> <img src="https://img.shields.io/badge/Philippine_Science_High_School-0066CC?style=for-the-badge&labelColor=0066CC" alt="PSHS"/>
-  
-<img src="https://github.com/user-attachments/assets/7f703eaa-a832-4c62-b823-895296ce911b" width="40" alt="Mapua"/> <img src="https://img.shields.io/badge/Mapúa_University-DC143C?style=for-the-badge&labelColor=DC143C" alt="Mapua"/>
 
-<img src="https://github.com/user-attachments/assets/7ab04c41-3e3a-4714-b6b4-b48e965ffbda" width="40" alt="SKSU"/> <img src="https://img.shields.io/badge/Sultan_Kudarat_State_University-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=000000" alt="SKSU"/>
+<table><tr><td bgcolor="#0066CC" height="35"><img src="https://github.com/user-attachments/assets/ab0e78f6-62a5-480d-bf12-def7a91a969a" height="60"/></td><td bgcolor="#0066CC" width="400"><b>&nbsp;&nbsp;PHILIPPINE SCIENCE HIGH SCHOOL&nbsp;&nbsp;</b></td></tr></table>
 
+<table><tr><td bgcolor="#DC143C" height="35"><img src="https://github.com/user-attachments/assets/5d790748-f8eb-4f26-98b3-5838310d2e7a" height="60"/></td><td bgcolor="#DC143C" width="400"><b>&nbsp;&nbsp;MAPÚA UNIVERSITY&nbsp;&nbsp;</b></td></tr></table>
+
+<table><tr><td bgcolor="#FFD700" height="35"><img src="https://github.com/user-attachments/assets/f97dc454-7404-4b75-b93f-b26a6aec3d4a" height="60"/></td><td bgcolor="#FFD700" width="400"><b>&nbsp;&nbsp;SULTAN KUDARAT STATE UNIVERSITY&nbsp;&nbsp;</b></td></tr></table>
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cb3918cd-d691-47f3-a81c-87ed875d80ed" />
 
