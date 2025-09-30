@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/faf7fe92-b49b-4f02-924e-5158858ae6ce" width="30" alt="PSHS"/> <img src="https://img.shields.io/badge/Philippine_Science_High_School-0066CC?style=for-the-badge&labelColor=0066CC" alt="PSHS"/>
+<img src="https://github.com/user-attachments/assets/9f867a46-3dba-42aa-9984-86e596b20a1f" width="40" alt="PSHS"/> <img src="https://img.shields.io/badge/Philippine_Science_High_School-0066CC?style=for-the-badge&labelColor=0066CC" alt="PSHS"/>
   
-<img src="https://github.com/user-attachments/assets/9f867a46-3dba-42aa-9984-86e596b20a1f" width="30" alt="Mapua"/> <img src="https://img.shields.io/badge/Mapúa_University-DC143C?style=for-the-badge&labelColor=DC143C" alt="Mapua"/>
+<img src="https://github.com/user-attachments/assets/7f703eaa-a832-4c62-b823-895296ce911b" width="40" alt="Mapua"/> <img src="https://img.shields.io/badge/Mapúa_University-DC143C?style=for-the-badge&labelColor=DC143C" alt="Mapua"/>
 
-<img src="https://github.com/user-attachments/assets/7ab04c41-3e3a-4714-b6b4-b48e965ffbda" width="30" alt="SKSU"/> <img src="https://img.shields.io/badge/Sultan_Kudarat_State_University-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=000000" alt="SKSU"/>
+<img src="https://github.com/user-attachments/assets/7ab04c41-3e3a-4714-b6b4-b48e965ffbda" width="40" alt="SKSU"/> <img src="https://img.shields.io/badge/Sultan_Kudarat_State_University-FFD700?style=for-the-badge&labelColor=FFD700&logoColor=000000" alt="SKSU"/>
 
-<img src="https://github.com/user-attachments/assets/7f703eaa-a832-4c62-b823-895296ce911b" width="30" alt="Skateboarding"/> <img src="https://img.shields.io/badge/Skateboarding-228B22?style=for-the-badge&labelColor=228B22" alt="Skateboarding"/>
 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cb3918cd-d691-47f3-a81c-87ed875d80ed" />
 
 </div>
 
