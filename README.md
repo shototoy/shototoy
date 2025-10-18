@@ -7,8 +7,6 @@
 
 <table><tr><td bgcolor="#FFD700" height="35"><img src="https://github.com/user-attachments/assets/f97dc454-7404-4b75-b93f-b26a6aec3d4a" height="60"/></td><td bgcolor="#FFD700" width="400"><b>&nbsp;&nbsp;SULTAN KUDARAT STATE UNIVERSITY&nbsp;&nbsp;</b></td></tr></table>
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/cb3918cd-d691-47f3-a81c-87ed875d80ed" />
-
 </div>
 
 <table>
