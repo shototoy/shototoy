@@ -1,5 +1,3 @@
-<h2>Welcome!</h2>
-
 <div align="center">
 
 <table><tr><td bgcolor="#0066CC" height="35"><img src="https://github.com/user-attachments/assets/ab0e78f6-62a5-480d-bf12-def7a91a969a" height="60"/></td><td bgcolor="#0066CC" width="400"><b>&nbsp;&nbsp;PHILIPPINE SCIENCE HIGH SCHOOL&nbsp;&nbsp;</b></td></tr></table>
