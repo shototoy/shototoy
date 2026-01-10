@@ -6,7 +6,7 @@
 
 <table><tr><td bgcolor="#FFD700" height="35"><img src="https://github.com/user-attachments/assets/f97dc454-7404-4b75-b93f-b26a6aec3d4a" height="60"/></td><td bgcolor="#FFD700" width="400"><b>&nbsp;&nbsp;SULTAN KUDARAT STATE UNIVERSITY&nbsp;&nbsp;</b></td></tr></table>
 
-</div>
+</div>    
 <table>
   <tr>
     <td align="center" width="200"><strong>Category</strong></td>
